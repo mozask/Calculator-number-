@@ -1,4 +1,4 @@
-* {
+⁴* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -16,7 +16,7 @@ a {
 }
 
 body {
-    background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165));
+    background: linear-gradient(90deg,#fc701e,#f21e80,#7718aa);
 }
 
 .container {
